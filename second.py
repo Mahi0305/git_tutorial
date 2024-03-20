@@ -1,2 +1,1 @@
-print("mahi2")
-print("hi ra")
+print("for loop")
